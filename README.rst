@@ -16,6 +16,7 @@ Setup
 -----
 - Configure config.json with the Reddit client parameters, Slack webhook URL, and the subreddits to track
 - Update serverless.yml with your AWS account ID
+- Deploy the Lambda function
 
 .. code-block:: bash
 
