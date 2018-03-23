@@ -24,6 +24,6 @@ Setup
     git clone https://github.com/epsagon/reddit-slackbot
     cd reddit-slackbot/
     pip install -r requirements.txt -t packages/
-    sls deploy
+    serverless deploy
 
 
