@@ -20,7 +20,7 @@ Setup
 
 .. code-block:: bash
 
-    git clone git@github.com:epsagon/reddit-slackbot.git
+    git clone https://github.com/epsagon/reddit-slackbot
     cd reddit-slackbot/
     pip install -r requirements.txt -t packages/
     sls deploy
