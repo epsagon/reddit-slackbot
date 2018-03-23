@@ -9,7 +9,8 @@ Serverless Reddit Slack Bot
 
 Description
 ----------
-- Serverless Reddit Slack Bot
+- Serverless Reddit Slack Bot for tracking new submissions
+- Deployed as a Python AWS Lambda using the Serverless Framework
 - Can be used as a template for other Slack bots
 
 Setup
