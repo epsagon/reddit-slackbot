@@ -1,11 +1,12 @@
 """
-Reddit Slack updates
+Reddit submissions Slack bot
 """
 
 import os
 import time
 import json
 import boto3
+import packages
 import requests
 import praw
 

@@ -22,7 +22,7 @@ functions:
       - schedule: rate(1 hour)
     environment:
       # Start time, e.g. the output of time.time()
-      LAST_SUBMISSION: "1518239036.0"
+      LAST_SUBMISSION: "1521756333.7"
 
 
 
