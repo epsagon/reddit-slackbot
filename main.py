@@ -11,8 +11,8 @@ import requests
 import praw
 
 # Constants
-TWO_DAYS = 7200
-TEN_DAYS = 36000
+TWO_HOURS = 7200
+TEN_HOURS = 36000
 
 config = json.load(open('config.json'))
 
